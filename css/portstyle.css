@@ -217,7 +217,7 @@ ul {
     margin-bottom: 10px;
 }
 .page-section#about {
-    background: url(../images/cliff.jpg) bottom center no-repeat;
+    background: url(../images/cliff.JPG) bottom center no-repeat;
 }
 .page-section#experience {
     
@@ -271,7 +271,7 @@ a.animated-button.thar-one:before {
     background-position: 50%;
 }
 .img_wrap1 {
-    background-image: url('../images/guitar.jpg');
+    background-image: url('../images/guitar.JPG');
 }
 .img_wrap2 {
     background-image: url('../images/raft.jpg');
